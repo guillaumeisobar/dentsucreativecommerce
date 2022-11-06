@@ -89,7 +89,7 @@ const Layout: React.FunctionComponent<Props> = ({
                       <span className="sr-only">Commercelayer</span>
                       <img
                         className="h-8 w-auto"
-                        src="//data.commercelayer.app/assets/logos/full-logo/black/commercelayer_full_logo_black.svg"
+                        src="//raw.githubusercontent.com/guillaumeisobar/dentsucreativecommerce/main/commercelayer_full_logo_black%201.svg"
                         alt=""
                       />
                     </a>
