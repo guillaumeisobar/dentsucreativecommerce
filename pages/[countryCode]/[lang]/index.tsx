@@ -80,7 +80,7 @@ const FilterPage: NextPage<Props> = ({
       <OrderStorage persistKey={`order-${code}`}>
         <OrderContainer attributes={{ language_code: languageCode }}>
           <Layout
-            title="Commerce Layer Starter"
+            title="Dentsu Creative Commerce"
             buildLanguages={buildLanguages}
             countries={countries}
             lang={lang}
