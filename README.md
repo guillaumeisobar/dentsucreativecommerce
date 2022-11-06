@@ -1,4 +1,4 @@
-# Commerce Layer Starter
+
 
 A multi-country ecommerce starter that features the sanity studio built with Commerce Layer, Next.js, and deployed to Netlify.
 
