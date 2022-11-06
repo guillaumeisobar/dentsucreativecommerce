@@ -1,0 +1,16 @@
+Client ID
+The application unique identifier.
+
+Yah4XOhN3DcwZPKWSnCSDj6dpkhvbo4vaosnmfMET0I
+Client secret
+The application secret key.
+
+fhSG8bxW5iwF0wZMz9bw3aLrt7Jg2a3YCKLTxPbtcOU
+Base endpoint
+The url for making API calls.
+
+https://dentsu-creative.commercelayer.io
+Access token expiry
+The lifetime of the access token in seconds (min. 7200, max. 31536000, default is 7200).
+
+7200
